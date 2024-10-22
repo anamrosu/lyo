@@ -1,6 +1,18 @@
 # Eclipse Lyo changelog
 
-## [6.0.0-SNAPSHOT]
+## [7.0.0-SNAPSHOT]
+
+### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+- Dependency to deprecated oslc4j-json4j-provider
+### Fixed
+
+## [6.0.0]
 
 ### Security
 
